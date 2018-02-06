@@ -1,0 +1,5 @@
+import test module
+
+for i in range(10):
+  test()
+ 
